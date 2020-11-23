@@ -1,3 +1,3 @@
 # practiceGit_GotoMasaki
 
-GitHub練習
+VSCode GitHub練習
