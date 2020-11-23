@@ -1,3 +1,3 @@
 # practiceGit_GotoMasaki
 
-GitHub練習
+GitHub練習 adadaada
